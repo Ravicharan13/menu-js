@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../Desktop/pro"
+	},
+	{
+		"path": "../../Desktop/new html&css"
+	},
+	{
+		"path": "../../Desktop/carousel"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "app"
+  }
+}
